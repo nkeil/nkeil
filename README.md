@@ -1,6 +1,6 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+[<img align="left" width="45%" alt="🧊" src="/github-metrics.svg">](#)
+[<img align="right" width="45%" alt="🧊" src="/metrics.plugin.habits.facts.svg">](#)
+
 
 <!--
 **nkeil/nkeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
