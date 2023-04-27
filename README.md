@@ -1,4 +1,6 @@
-### Hi there 👋
+<pictur
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 <!--
 **nkeil/nkeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
